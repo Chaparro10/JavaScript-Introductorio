@@ -1,0 +1,19 @@
+{
+    "Empleados":[
+        {
+            "id":1,
+            "Nombre": "Pedro",
+            "Puesto":"JEFE"
+        },
+        {
+            "id":2,
+            "Nombre": "Pedro",
+            "Puesto":"JEFE2"
+        },
+        {
+            "id":3,
+            "Nombre": "Pedro",
+            "Puesto":"JEFE3"
+        }
+    ]
+}
