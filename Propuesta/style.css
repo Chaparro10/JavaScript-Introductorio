@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#B4085E;
+}
+
+.container{
+    text-align: center;
+    color: white;
+    background-color: #8B0849;
+    width: 400px;
+    margin: 100px auto;
+}
+.container2{
+    text-align: center;
+    color: white;
+    background-color: #8B0849;
+    width: 700px;
+    margin: 100px auto;
+}
+
+.container img{
+    width: 100%;
+    height: 100%;
+}
+
+.inputs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputs button{
+    width: 80px;
+    height: 30px;
+    background-color: #357C7C;
+}
